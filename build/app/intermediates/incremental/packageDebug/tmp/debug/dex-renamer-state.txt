@@ -1,0 +1,4 @@
+#Sun Dec 31 21:22:34 ICT 2023
+base.0=D\:\\INFORMATION TECHNOLOGY\\PROJECT\\Flutter\\yummyexpress\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
